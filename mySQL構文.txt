@@ -1,4 +1,4 @@
-■データを挿入
+﻿■データを挿入
 INSERT INTO テーブル名(フィールド名...) VALUES(値...)
 
 ■データの取得
@@ -19,3 +19,4 @@ IDのインデックスにPRIMARY AutoIncrementにチェックを入れる
 insert into tablename(num,name,addr,tel)values('0001','佐藤','岩手','019')
 
 //編集しました。by kato
+//編集ssssssss
